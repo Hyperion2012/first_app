@@ -1,4 +1,4 @@
 first_app
 =========
 
-Rails-Projekte
+Rails-Projekt
